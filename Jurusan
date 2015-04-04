@@ -1,0 +1,3 @@
+public interface Jurusan{
+	public abstract String setJurusan();
+}
